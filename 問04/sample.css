@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP|Pacifico|Seymour+One&display=swap');
+
+.font1{
+    font-family: 'Noto Serif JP', serif;
+    text-align: left;
+}
+.font2{
+    font-family: 'Seymour One', sans-serif;
+    text-align: center;
+}
+.font3{
+    text-align: right;
+    font-family: 'Pacifico', cursive;
+}

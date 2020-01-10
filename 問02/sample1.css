@@ -1,0 +1,16 @@
+body{
+    background: #178f75;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+.container{
+
+    background: rgb(118, 209, 171);
+}
+li{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
